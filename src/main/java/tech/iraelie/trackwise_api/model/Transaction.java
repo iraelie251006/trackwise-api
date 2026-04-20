@@ -4,6 +4,7 @@ import jakarta.persistence.*;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
 import tech.iraelie.trackwise_api.category.Category;
+import tech.iraelie.trackwise_api.user.User;
 
 import java.math.BigDecimal;
 import java.time.LocalDate;
