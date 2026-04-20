@@ -5,7 +5,7 @@ import lombok.Getter;
 import lombok.NoArgsConstructor;
 import lombok.Setter;
 import tech.iraelie.trackwise_api.model.Transaction;
-import tech.iraelie.trackwise_api.model.User;
+import tech.iraelie.trackwise_api.user.User;
 
 import java.util.List;
 
