@@ -1,9 +1,11 @@
-package tech.iraelie.trackwise_api.model;
+package tech.iraelie.trackwise_api.user;
 
 import jakarta.persistence.*;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
 import tech.iraelie.trackwise_api.category.Category;
+import tech.iraelie.trackwise_api.model.Role;
+import tech.iraelie.trackwise_api.model.Transaction;
 
 import java.util.List;
 
