@@ -1,4 +1,6 @@
 package tech.iraelie.trackwise_api.user;
 
-public interface UserInterface {
+import org.springframework.data.jpa.repository.JpaRepository;
+
+public interface UserInterface extends JpaRepository<User, String> {
 }
