@@ -7,4 +7,6 @@ import org.springframework.web.bind.annotation.RestController;
 @RequiredArgsConstructor
 public class CategoryController {
     private final CategoryInterface categoryService;
+
+//    TODO: add create endpoint
 }
