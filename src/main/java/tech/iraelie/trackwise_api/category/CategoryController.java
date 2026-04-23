@@ -9,4 +9,5 @@ public class CategoryController {
     private final CategoryInterface categoryService;
 
 //    TODO: add create endpoint
+//    TODO: Add update endpoints
 }
